@@ -19,7 +19,7 @@
     "react-progressbar-fancy": "^1.1.4",
     "react-router-dom": "^6.10.0",
     "styled-components": "^5.3.9",
-    "web3": "^1.8.2"
+    "web3": "^4.0.1"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.18.6",
